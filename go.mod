@@ -1,6 +1,6 @@
 module github.com/030/nononsec
 
-go 1.26.4
+go 1.26.5
 
 require github.com/sirupsen/logrus v1.9.3
 
